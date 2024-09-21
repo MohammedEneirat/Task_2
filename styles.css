@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-image: url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.My_skill {
+    margin-top: 5px;
+    font-size: larger;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav ul li a:hover {
+    background-color: #45a049;
+    border-radius: 5px;
+}
+
+/* Sections */
+.all_section {
+    margin: 50px;
+}
+
+.section {
+    padding-left: 10px;
+    background-color: #298d9e50;
+    margin: 50px 0;
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+
+}
+
+.about {
+    text-align: center;
+}
+
+.skills div {
+    text-align: center;
+    padding: 10px;
+}
+
+.btn_skill {
+    font-size: larger;
+    height: 60px;
+    background-color: black;
+}
+
+.projects {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLkNu6MhNMOu02871w6Xp2Lf2A9NiDtDyseA&s');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.project-card {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Buttons and inputs */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+input:focus {
+    border-color: #4CAF50;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
